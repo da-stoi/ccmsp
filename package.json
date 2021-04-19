@@ -2,7 +2,7 @@
   "name": "CCMSP",
   "author": "Daniel Stoiber",
   "version": "1.0",
-  "licence": "GPL-3.0",
+  "license": "GPL-3.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
